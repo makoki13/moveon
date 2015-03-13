@@ -1,0 +1,1 @@
+Un cronometro para el movil con posibilidad de uno o varios registros de tiempo.
